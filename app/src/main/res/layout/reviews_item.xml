@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_reviewer_name"
+        style="@style/reviewItemTextViewStyle"
+        android:textSize="20sp"
+        tools:text="John Peter" />
+
+    <TextView
+        android:id="@+id/tv_review_content"
+        style="@style/reviewItemTextViewStyle"
+        tools:text="Review starts from here...." />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:background="@android:color/black" />
+</LinearLayout>

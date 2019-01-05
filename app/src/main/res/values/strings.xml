@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_movies_found">No Movies Found</string>
+    <string name="title_activity_settings">Settings</string>
+    <!-- Strings related to Settings -->
+    <string name="settings_order_by_popularity_label">By Popularity</string>
+    <string name="settings_order_by_top_rated_label">By Top Rated</string>
+    <string name="settings_order_by_popularity_value">popularity</string>
+    <string name="settings_order_by_top_rated_value">top_rated</string>
+    <string name="settings_order_by_favorites_label">By Favorites</string>
+    <string name="settings_order_by_favorites_value">favorites</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_popularity_value</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Popular Movies Settings</string>
+    <!--Strings For movie_details activity-->
+    <string name="release_date_header">Release Date:&#160;</string>
+    <string name="vote_avg_header">Rating:&#160;</string>
+    <string name="plot_header">Plot:&#160;</string>
+    <string name="cd_movie_poster_iv">Movie Poster</string>
+    <string name="movie_detail_header">Movie Details</string>
+    <string name="reviews_header">Reviews:</string>
+    <string name="trailer_header">Trailers:</string>
+    <!--Strings For Adding Movies to Favorites capability-->
+    <string name="mark_as_favorite">Mark as Favorite</string>
+    <string name="remove_from_favorite">Remove from Favorite</string>
+    <string name="movie_insert_item_successful">Movie saved in favorites</string>
+    <string name="movie_insert_or_delete_item_failed">We have hit a snag</string>
+    <string name="movie_remove_item_successful">Movie removed from favorites</string>
+
+</resources>

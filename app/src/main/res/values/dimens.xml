@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="trailer_review_header_margin_top">10dp</dimen>
+    <dimen name="trailer_review_header_margin_bottom">5dp</dimen>
+    <dimen name="trailer_review_header_text_size">20sp</dimen>
+</resources>
